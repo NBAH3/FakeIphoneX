@@ -1,0 +1,17 @@
+body{
+	margin:0px;
+	background-color: black;
+}
+div.Image{
+	margin-top: 10%;
+	margin-left: -5%;
+}
+
+.Button_one{
+	margin-top: -20%;
+	margin-left: 70%;
+	display: flex;
+}
+div.hena{
+	margin-left: 78%;
+}
